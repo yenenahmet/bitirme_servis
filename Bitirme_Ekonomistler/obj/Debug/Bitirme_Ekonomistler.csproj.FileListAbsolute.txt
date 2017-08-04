@@ -1,0 +1,180 @@
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\ApplicationInsights.config
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\csc.exe
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\vbc.exe
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\VBCSCompiler.exe
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Bitirme_Ekonomistler.dll.config
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Bitirme_Ekonomistler.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Bitirme_Ekonomistler.pdb
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Antlr3.Runtime.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\EntityFramework.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\EntityFramework.SqlServer.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AI.Web.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.ApplicationInsights.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.Google.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Newtonsoft.Json.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Owin.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Net.Http.Formatting.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Helpers.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Http.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Http.Owin.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Http.WebHost.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Mvc.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Optimization.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Razor.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.WebPages.Deployment.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.WebPages.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.WebPages.Razor.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\WebGrease.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AI.Web.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.ApplicationInsights.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Newtonsoft.Json.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Net.Http.Formatting.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Helpers.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Http.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Http.WebHost.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Mvc.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Optimization.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Razor.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.WebPages.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.WebPages.Deployment.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.WebPages.Razor.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Antlr3.Runtime.pdb
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\EntityFramework.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\EntityFramework.SqlServer.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.Google.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Http.Owin.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\obj\Debug\Bitirme_Ekonomistler.csprojResolveAssemblyReference.cache
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\obj\Debug\Bitirme_Ekonomistler.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\Bitirme_Ekonomistler\Bitirme_Ekonomistler\obj\Debug\Bitirme_Ekonomistler.pdb
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\ApplicationInsights.config
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\csc.exe
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\System.Collections.Immutable.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\System.Reflection.Metadata.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\vbc.exe
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\VBCSCompiler.exe
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\roslyn\VBCSCompiler.exe.config
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Bitirme_Ekonomistler.dll.config
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Bitirme_Ekonomistler.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Bitirme_Ekonomistler.pdb
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Antlr3.Runtime.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\EntityFramework.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\EntityFramework.SqlServer.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AI.DependencyCollector.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AI.Web.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AI.WindowsServer.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.ApplicationInsights.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.Google.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Web.Infrastructure.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Newtonsoft.Json.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Owin.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Net.Http.Formatting.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Helpers.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Http.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Http.Owin.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Http.WebHost.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Mvc.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Optimization.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Razor.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.WebPages.Deployment.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.WebPages.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.WebPages.Razor.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\WebGrease.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AI.DependencyCollector.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AI.Web.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AI.WindowsServer.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.ApplicationInsights.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Newtonsoft.Json.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Net.Http.Formatting.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Helpers.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Http.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Http.WebHost.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Mvc.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Optimization.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Razor.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.WebPages.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.WebPages.Deployment.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.WebPages.Razor.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Antlr3.Runtime.pdb
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\EntityFramework.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\EntityFramework.SqlServer.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.Google.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\bin\System.Web.Http.Owin.xml
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\obj\Debug\Bitirme_Ekonomistler.dll
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\obj\Debug\Bitirme_Ekonomistler.pdb
+C:\Ahmet YENEN\Bitirme_Ekonomistler\Bitirme_Ekonomistler\obj\Debug\Bitirme_Ekonomistler.csprojResolveAssemblyReference.cache
